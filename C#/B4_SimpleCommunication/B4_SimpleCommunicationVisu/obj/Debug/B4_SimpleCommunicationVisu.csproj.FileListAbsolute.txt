@@ -1,0 +1,28 @@
+C:\Users\Likea\Documents\Schulisches\2021-22 4CHME\AIIT\C-Sharp Framework\B4_SimpleCommunication\B4_SimpleCommunicationVisu\bin\Debug\B4_SimpleCommunicationVisu.exe.config
+C:\Users\Likea\Documents\Schulisches\2021-22 4CHME\AIIT\C-Sharp Framework\B4_SimpleCommunication\B4_SimpleCommunicationVisu\bin\Debug\B4_SimpleCommunicationVisu.exe
+C:\Users\Likea\Documents\Schulisches\2021-22 4CHME\AIIT\C-Sharp Framework\B4_SimpleCommunication\B4_SimpleCommunicationVisu\bin\Debug\B4_SimpleCommunicationVisu.pdb
+C:\Users\Likea\Documents\Schulisches\2021-22 4CHME\AIIT\C-Sharp Framework\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.csprojAssemblyReference.cache
+C:\Users\Likea\Documents\Schulisches\2021-22 4CHME\AIIT\C-Sharp Framework\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.Form1.resources
+C:\Users\Likea\Documents\Schulisches\2021-22 4CHME\AIIT\C-Sharp Framework\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.Properties.Resources.resources
+C:\Users\Likea\Documents\Schulisches\2021-22 4CHME\AIIT\C-Sharp Framework\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.csproj.GenerateResource.cache
+C:\Users\Likea\Documents\Schulisches\2021-22 4CHME\AIIT\C-Sharp Framework\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.exe
+C:\Users\Likea\Documents\Schulisches\2021-22 4CHME\AIIT\C-Sharp Framework\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.pdb
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\bin\Debug\B4_SimpleCommunicationVisu.exe.config
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\bin\Debug\B4_SimpleCommunicationVisu.exe
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\bin\Debug\B4_SimpleCommunicationVisu.pdb
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.csproj.AssemblyReference.cache
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.Form1.resources
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.Properties.Resources.resources
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.csproj.GenerateResource.cache
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.exe
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.pdb
+C:\Users\Nico\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\bin\Debug\B4_SimpleCommunicationVisu.exe.config
+C:\Users\Nico\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\bin\Debug\B4_SimpleCommunicationVisu.exe
+C:\Users\Nico\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\bin\Debug\B4_SimpleCommunicationVisu.pdb
+C:\Users\Nico\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.Form1.resources
+C:\Users\Nico\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.Properties.Resources.resources
+C:\Users\Nico\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.csproj.GenerateResource.cache
+C:\Users\Nico\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.csproj.CoreCompileInputs.cache
+C:\Users\Nico\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.exe
+C:\Users\Nico\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B4_SimpleCommunication\B4_SimpleCommunicationVisu\obj\Debug\B4_SimpleCommunicationVisu.pdb

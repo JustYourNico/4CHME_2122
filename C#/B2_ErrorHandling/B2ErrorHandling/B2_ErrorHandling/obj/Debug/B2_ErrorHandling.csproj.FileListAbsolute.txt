@@ -1,0 +1,20 @@
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B2ErrorHandling\B2_ErrorHandling\bin\Debug\B2_ErrorHandling.exe.config
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B2ErrorHandling\B2_ErrorHandling\bin\Debug\B2_ErrorHandling.exe
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B2ErrorHandling\B2_ErrorHandling\bin\Debug\B2_ErrorHandling.pdb
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B2ErrorHandling\B2_ErrorHandling\obj\Debug\B2_ErrorHandling.csprojAssemblyReference.cache
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B2ErrorHandling\B2_ErrorHandling\obj\Debug\B2_ErrorHandling.Form1.resources
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B2ErrorHandling\B2_ErrorHandling\obj\Debug\B2_ErrorHandling.Properties.Resources.resources
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B2ErrorHandling\B2_ErrorHandling\obj\Debug\B2_ErrorHandling.csproj.GenerateResource.cache
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B2ErrorHandling\B2_ErrorHandling\obj\Debug\B2_ErrorHandling.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B2ErrorHandling\B2_ErrorHandling\obj\Debug\B2_ErrorHandling.exe
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B2ErrorHandling\B2_ErrorHandling\obj\Debug\B2_ErrorHandling.pdb
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B2_ErrorHandling\B2ErrorHandling\B2_ErrorHandling\bin\Debug\B2_ErrorHandling.exe.config
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B2_ErrorHandling\B2ErrorHandling\B2_ErrorHandling\bin\Debug\B2_ErrorHandling.exe
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B2_ErrorHandling\B2ErrorHandling\B2_ErrorHandling\bin\Debug\B2_ErrorHandling.pdb
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B2_ErrorHandling\B2ErrorHandling\B2_ErrorHandling\obj\Debug\B2_ErrorHandling.csproj.AssemblyReference.cache
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B2_ErrorHandling\B2ErrorHandling\B2_ErrorHandling\obj\Debug\B2_ErrorHandling.Form1.resources
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B2_ErrorHandling\B2ErrorHandling\B2_ErrorHandling\obj\Debug\B2_ErrorHandling.Properties.Resources.resources
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B2_ErrorHandling\B2ErrorHandling\B2_ErrorHandling\obj\Debug\B2_ErrorHandling.csproj.GenerateResource.cache
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B2_ErrorHandling\B2ErrorHandling\B2_ErrorHandling\obj\Debug\B2_ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B2_ErrorHandling\B2ErrorHandling\B2_ErrorHandling\obj\Debug\B2_ErrorHandling.exe
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B2_ErrorHandling\B2ErrorHandling\B2_ErrorHandling\obj\Debug\B2_ErrorHandling.pdb

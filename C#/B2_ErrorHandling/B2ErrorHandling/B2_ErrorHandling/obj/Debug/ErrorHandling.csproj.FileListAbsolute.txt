@@ -1,0 +1,10 @@
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\4BHME\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe.config
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\4BHME\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\4BHME\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.pdb
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\4BHME\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csprojAssemblyReference.cache
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\4BHME\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.Form1.resources
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\4BHME\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.Properties.Resources.resources
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\4BHME\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csproj.GenerateResource.cache
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\4BHME\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\4BHME\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.exe
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\4BHME\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.pdb

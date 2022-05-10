@@ -1,0 +1,10 @@
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\_solutions\examples\AdvancedCommunication\bin\Debug\CommunicationWithReading.exe.config
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\_solutions\examples\AdvancedCommunication\bin\Debug\CommunicationWithReading.exe
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\_solutions\examples\AdvancedCommunication\bin\Debug\CommunicationWithReading.pdb
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\_solutions\examples\AdvancedCommunication\obj\Debug\AdvancedCommunication.csprojAssemblyReference.cache
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\_solutions\examples\AdvancedCommunication\obj\Debug\CommunicationWithLogging.Form1.resources
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\_solutions\examples\AdvancedCommunication\obj\Debug\CommunicationWithLogging.Properties.Resources.resources
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\_solutions\examples\AdvancedCommunication\obj\Debug\AdvancedCommunication.csproj.GenerateResource.cache
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\_solutions\examples\AdvancedCommunication\obj\Debug\AdvancedCommunication.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\_solutions\examples\AdvancedCommunication\obj\Debug\CommunicationWithReading.exe
+\\Mac\iCloud\Schule\Parallels10\repos\1920-school\_solutions\examples\AdvancedCommunication\obj\Debug\CommunicationWithReading.pdb

@@ -1,0 +1,12 @@
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\SimpleCommunication\SimpleCommunication\bin\Debug\SimpleCommunication.exe.config
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\SimpleCommunication\SimpleCommunication\bin\Debug\SimpleCommunication.exe
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\SimpleCommunication\SimpleCommunication\bin\Debug\SimpleCommunication.pdb
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\SimpleCommunication\SimpleCommunication\obj\Debug\SimpleCommunication.csprojResolveAssemblyReference.cache
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\SimpleCommunication\SimpleCommunication\obj\Debug\SimpleCommunication.Form1.resources
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\SimpleCommunication\SimpleCommunication\obj\Debug\SimpleCommunication.Properties.Resources.resources
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\SimpleCommunication\SimpleCommunication\obj\Debug\SimpleCommunication.csproj.GenerateResource.Cache
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\SimpleCommunication\SimpleCommunication\obj\Debug\SimpleCommunication.exe
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\SimpleCommunication\SimpleCommunication\obj\Debug\SimpleCommunication.pdb
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithLogging\SimpleCommunication\bin\Debug\SimpleCommunication.exe.config
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithLogging\SimpleCommunication\obj\Debug\SimpleCommunication.exe
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithLogging\SimpleCommunication\obj\Debug\SimpleCommunication.pdb

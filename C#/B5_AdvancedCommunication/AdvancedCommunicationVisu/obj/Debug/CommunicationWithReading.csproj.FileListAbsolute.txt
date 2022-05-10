@@ -1,0 +1,9 @@
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithReading\CommunicationWithReading\obj\Debug\CommunicationWithLogging.Form1.resources
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithReading\CommunicationWithReading\obj\Debug\CommunicationWithLogging.Properties.Resources.resources
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithReading\CommunicationWithReading\obj\Debug\CommunicationWithReading.csproj.GenerateResource.Cache
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithReading\CommunicationWithReading\obj\Debug\CommunicationWithReading.csprojResolveAssemblyReference.cache
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithReading\CommunicationWithReading\bin\Debug\CommunicationWithReading.exe.config
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithReading\CommunicationWithReading\bin\Debug\CommunicationWithReading.exe
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithReading\CommunicationWithReading\bin\Debug\CommunicationWithReading.pdb
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithReading\CommunicationWithReading\obj\Debug\CommunicationWithReading.exe
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithReading\CommunicationWithReading\obj\Debug\CommunicationWithReading.pdb

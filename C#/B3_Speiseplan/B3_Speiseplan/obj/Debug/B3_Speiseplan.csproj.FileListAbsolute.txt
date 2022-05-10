@@ -1,0 +1,19 @@
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B3_Speiseplan\B3_Speiseplan\bin\Debug\B3_Speiseplan.exe.config
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B3_Speiseplan\B3_Speiseplan\bin\Debug\B3_Speiseplan.exe
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B3_Speiseplan\B3_Speiseplan\bin\Debug\B3_Speiseplan.pdb
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B3_Speiseplan\B3_Speiseplan\obj\Debug\B3_Speiseplan.csprojAssemblyReference.cache
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B3_Speiseplan\B3_Speiseplan\obj\Debug\B3_Speiseplan.Properties.Resources.resources
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B3_Speiseplan\B3_Speiseplan\obj\Debug\B3_Speiseplan.csproj.GenerateResource.cache
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B3_Speiseplan\B3_Speiseplan\obj\Debug\B3_Speiseplan.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B3_Speiseplan\B3_Speiseplan\obj\Debug\B3_Speiseplan.exe
+\\Mac\iCloud\Schule\Parallels10\repos\2021-school\4AHME\B3_Speiseplan\B3_Speiseplan\obj\Debug\B3_Speiseplan.pdb
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B3_Speiseplan\B3_Speiseplan\bin\Debug\B3_Speiseplan.exe.config
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B3_Speiseplan\B3_Speiseplan\bin\Debug\B3_Speiseplan.exe
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B3_Speiseplan\B3_Speiseplan\bin\Debug\B3_Speiseplan.pdb
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B3_Speiseplan\B3_Speiseplan\obj\Debug\B3_Speiseplan.csproj.AssemblyReference.cache
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B3_Speiseplan\B3_Speiseplan\obj\Debug\B3_Speiseplan.Form1.resources
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B3_Speiseplan\B3_Speiseplan\obj\Debug\B3_Speiseplan.Properties.Resources.resources
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B3_Speiseplan\B3_Speiseplan\obj\Debug\B3_Speiseplan.csproj.GenerateResource.cache
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B3_Speiseplan\B3_Speiseplan\obj\Debug\B3_Speiseplan.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B3_Speiseplan\B3_Speiseplan\obj\Debug\B3_Speiseplan.exe
+C:\Users\Nico\Documents\OneDrive - Linzer Technikum\4CHME_2021_2022\AIIT\C#\B3_Speiseplan\B3_Speiseplan\obj\Debug\B3_Speiseplan.pdb

@@ -1,0 +1,9 @@
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithLogging\CommunicationWithLogging\bin\Debug\SimpleCommunication.exe.config
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithLogging\CommunicationWithLogging\obj\Debug\SimpleCommunication.exe
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithLogging\CommunicationWithLogging\obj\Debug\SimpleCommunication.pdb
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithLogging\CommunicationWithLogging\bin\Debug\SimpleCommunication.exe
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithLogging\CommunicationWithLogging\bin\Debug\SimpleCommunication.pdb
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithLogging\CommunicationWithLogging\obj\Debug\CommunicationWithLogging.csprojResolveAssemblyReference.cache
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithLogging\CommunicationWithLogging\obj\Debug\CommunicationWithLogging.Form1.resources
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithLogging\CommunicationWithLogging\obj\Debug\CommunicationWithLogging.Properties.Resources.resources
+C:\Users\Susanne\Documents\Visual Studio 2013\Projects\CommunicationWithLogging\CommunicationWithLogging\obj\Debug\CommunicationWithLogging.csproj.GenerateResource.Cache
