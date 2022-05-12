@@ -236,8 +236,8 @@ if chosenLevel == '4':
                     if int(tempCoord[i]) not in ypoints[int(tempCoord[i + 1])]:
                         ypoints[int(tempCoord[i + 1])].append(int(tempCoord[i]))
 
-            print("Cx:"+str(len(xpoints[int(tempCoord[0])])))
-            print("Cy:"+str(len(ypoints[int(tempCoord[1])])))
+            print("Cx:"+str(len(xpoints[int(tempCoord[0])])-1))
+            print("Cy:"+str(len(ypoints[int(tempCoord[1])])-1))
 
 
 # level 5
@@ -260,6 +260,7 @@ if chosenLevel == '5':
                 else:
                     if int(tempCoord[i]) not in xpoints[int(tempCoord[i])]:
                         xpoints[int(tempCoord[i])].append(int(tempCoord[i + 1]))
+
                 if not ypoints.keys().__contains__(int(tempCoord[i + 1])):
                     ypoints[int(tempCoord[i + 1])] = [int(tempCoord[i])]
                 else:
@@ -271,7 +272,8 @@ if chosenLevel == '5':
                     if len(xpoints[val]) > 1:
                         specialTriangles += (len(xpoints[val]) - 1) * (len(ypoints[key]) - 1)
 
-                # print("Triangles: " + str(specialTriangles))
+
+
 
             print("The number of special triangles is: " + str(specialTriangles))
             print("{} done".format((str(f))))
