@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="089b688b-847b-4947-97e7-8a4aa3d86246" name="Changes" comment="">
+    <list default="true" id="089b688b-847b-4947-97e7-8a4aa3d86246" name="Changes" comment="Updated algorythm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AINV/CCC/Level5/in.1" beforeDir="false" afterPath="$PROJECT_DIR$/AINV/CCC/Level5/in.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AINV/CCC/Level5/in.2" beforeDir="false" afterPath="$PROJECT_DIR$/AINV/CCC/Level5/in.2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AINV/CCC/Level5/in.3" beforeDir="false" afterPath="$PROJECT_DIR$/AINV/CCC/Level5/in.3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AINV/CCC/Level5/in.4" beforeDir="false" afterPath="$PROJECT_DIR$/AINV/CCC/Level5/in.4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AINV/CCC/Level5/in.5" beforeDir="false" afterPath="$PROJECT_DIR$/AINV/CCC/Level5/in.5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AINV/CCC/Level5/in.6" beforeDir="false" afterPath="$PROJECT_DIR$/AINV/CCC/Level5/in.6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AINV/CCC/ccc_count_Triangles.py" beforeDir="false" afterPath="$PROJECT_DIR$/AINV/CCC/ccc_count_Triangles.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +130,6 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/4CHME_2122$ccc_count_Triangles.coverage" NAME="ccc_count_Triangles Coverage Results" MODIFIED="1652367274875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AINV/CCC" />
+    <SUITE FILE_PATH="coverage/4CHME_2122$ccc_count_Triangles.coverage" NAME="ccc_count_Triangles Coverage Results" MODIFIED="1654252956624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AINV/CCC" />
   </component>
 </project>
