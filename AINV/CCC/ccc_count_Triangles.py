@@ -12,7 +12,7 @@ import shutil
 
 i = 0
 triangleNumber = 0
-maxPoints = 0
+amountPoints = 0
 stringInFiles = ""
 triangles = []
 tempCoord = []
@@ -185,8 +185,8 @@ if chosenLevel == '3':
             stringInFiles = str(x.readline().strip('\n'))
             tempCoord = stringInFiles.split(" ")
 
-            maxPoints = int(tempCoord.pop(0))
-            for i in range(0, maxPoints * 2, 2):
+            amountPoints = int(tempCoord.pop(0))
+            for i in range(0, amountPoints * 2, 2):
                 points.append(coordinates(int(tempCoord[i]), int(tempCoord[i + 1])))
 
 
@@ -221,9 +221,9 @@ if chosenLevel == '4':
             stringInFiles = str(x.readline().strip('\n'))
             tempCoord = stringInFiles.split(" ")
 
-            maxPoints = int(tempCoord.pop(0))
+            amountPoints = int(tempCoord.pop(0))
 
-            for i in range(0, maxPoints * 2, 2):
+            for i in range(0, amountPoints * 2, 2):
                 if not xpoints.keys().__contains__(int(tempCoord[i])):
                     xpoints[int(tempCoord[i])] = [int(tempCoord[i + 1])]
                 else:
@@ -244,6 +244,7 @@ if chosenLevel == '4':
 if chosenLevel == '5':
     chdir("./Level5")
     allFilesInFolder = listdir("./")
+    allFilesInFolder.sort()
     for f in allFilesInFolder:
         specialTriangles = 0
         xpoints = {}
@@ -253,12 +254,12 @@ if chosenLevel == '5':
             stringInFiles = str(x.readline().strip('\n'))
             tempCoord = stringInFiles.split(" ")
 
-            maxPoints = int(tempCoord.pop(0))
-            for i in range(0, maxPoints * 2, 2):
+            amountPoints = int(tempCoord.pop(0))
+            for i in range(0, amountPoints * 2, 2):
                 if not xpoints.keys().__contains__(int(tempCoord[i])):
                     xpoints[int(tempCoord[i])] = [int(tempCoord[i + 1])]
                 else:
-                    if int(tempCoord[i]) not in xpoints[int(tempCoord[i])]:
+                    if int(tempCoord[i + 1]) not in xpoints[int(tempCoord[i])]:
                         xpoints[int(tempCoord[i])].append(int(tempCoord[i + 1]))
 
                 if not ypoints.keys().__contains__(int(tempCoord[i + 1])):
@@ -277,3 +278,10 @@ if chosenLevel == '5':
 
             print("The number of special triangles is: " + str(specialTriangles))
             print("{} done".format((str(f))))
+
+# 752346
+# 1069785
+# 39
+# 732414076
+# 2499897192
+# 9888637601
